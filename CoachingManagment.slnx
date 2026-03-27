@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="BussinessLogicLayer/MngBussinessLogicLayer.csproj" />
+  <Project Path="CoachingManagment/CoachingManagment.csproj" />
+  <Project Path="MngDataAccessLayer/MngDataAccessLayer.csproj" />
+</Solution>
