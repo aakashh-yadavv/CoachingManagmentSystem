@@ -43,3 +43,6 @@ Auto calculation of Remaining Amount<br>
 Auto Status Update<br>
 Prevent Overpayment<br>
 Prevent Duplicate Full Payment# CoachingManagment<br>
+👨‍💻 Author<br>
+Akash Yadav<br>
+GitHub 👉https://github.com/aakashh-yadavv
